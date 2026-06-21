@@ -1,4 +1,4 @@
-# MSP User Onboarding Automation Script
+# User Onboarding Automation Script
 
 ## Business Case
 Manually creating user accounts during client onboarding is inefficient and prone to typos. This PowerShell script automates local user creation, standardizes username formats, assigns descriptions, and generates a centralized deployment log. It cuts onboarding time down by 90% and ensures perfect data consistency for MSP documentation.
